@@ -15,3 +15,6 @@ docroot/profiles/contrib
 
 # Ignore anything site-specific.
 docroot/sites/*
+
+# Include the sites/default.
+!docroot/sites/default
